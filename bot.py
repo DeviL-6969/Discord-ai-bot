@@ -19,4 +19,4 @@ async def chat(ctx, *, message: str):
     await ctx.send(response[0]['generated_text'])
 
 # Run the bot
-bot.run('TOKEN')
+bot.run(TOKEN)
