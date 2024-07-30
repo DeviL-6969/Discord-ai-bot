@@ -1,2 +1,2 @@
 # Discord-ai-bot
-Just trying to create one...
+touch README.md .gitignore requirements.txt bot.py config.py
