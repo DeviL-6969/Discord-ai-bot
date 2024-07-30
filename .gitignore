@@ -1,0 +1,8 @@
+#### **`.gitignore`**
+This file tells Git which files and directories to ignore. Here's a basic example:
+
+```gitignore
+__pycache__/
+*.pyc
+.env
+config.py
